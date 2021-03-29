@@ -6,5 +6,9 @@
 ．RWD響應式設計  
 ．JQuery動畫效果  
 ．Grid、Flex切版應用  
-．AJAX面板切換  
-．Javascript表單驗證  
+．用AJAX做tabPanel切換  
+．JS Regex表單驗證:  
+  1.first name和last name只能輸入中文或英文且兩邊須為同一種語言  
+  2.電話須以0開頭  
+  3.信箱須包含@符號且後面需接網域名  
+  4.內容欄需輸入內容  
