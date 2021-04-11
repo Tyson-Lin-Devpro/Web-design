@@ -1,6 +1,6 @@
 # Single-page-web
 
-使用Html、Css、Javascript、JQuery手刻練習作品。
+Single-page-web是個人第一個前端網頁作品，手刻Html、Css、Javascript，搭配JQuery動畫效果所編寫而成。
 
 ![首頁截圖頁面](https://github.com/gn00667340/single-page-web/blob/gh-pages/images/singlepage.gif)
 
