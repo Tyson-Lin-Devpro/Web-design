@@ -18,10 +18,10 @@ Single-page-web是個人第一個前端網頁作品，手刻Html、Css、Javascr
   6. 導入Google map定位資訊
   7. RWD響應各種裝置螢幕尺寸
 
-## Technical Skills - 使用哪些技術實作專案
+## Technical Skills - 專案實作技術
 
 - Html - 標籤語法運用
-- Css - 版面樣式、動畫設計 ( Smooth Scrolling )
+- SCSS - 版面樣式、動畫設計 ( Smooth Scrolling )
 - Javascript - 表單驗證 ( Regex ) 
 - JQuery - 動畫設計 ( Toggle Menu、Navbar )
 - AJAX - 非同步切換頁面 ( 局部切換infomation、contact頁面 )
