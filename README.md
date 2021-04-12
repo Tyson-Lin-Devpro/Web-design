@@ -1,4 +1,4 @@
-# Single-page-web
+# Single-page-web商家網頁設計
 
 Single-page-web是個人第一個前端網頁作品，手刻Html、Css、Javascript，搭配JQuery動畫效果所編寫而成。
 
