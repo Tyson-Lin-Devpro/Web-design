@@ -11,17 +11,16 @@
 ## Features - 專案功能
 
   1. SPA設計
-  2. 商家介紹
-  3. 菜單展示
-  4. 地點資訊
-  5. 表單驗證
-  6. 導入Google map定位資訊
-  7. RWD響應式網頁設計
+  2. 展示商家資訊
+  3. 地點資訊
+  4. 表單驗證
+  5. 導入Google map
+  6. RWD響應式網頁設計
 
 ## Technical Skills - 使用哪些技術實作專案
 
 - HTML5 - 標籤語法運用
-- CSS3 - 使用SCSS設計UI兼具RWD效果
+- CSS3/SCSS - 使用SCSS預處理器設計UI並做出RWD效果
 - JavaScript - 表單內容驗證 ( Regex ) 
 - jQuery - 動畫設計 ( Toggle Menu、Navbar )
 - AJAX - 非同步切換頁面 ( Tab panel 切換 )
