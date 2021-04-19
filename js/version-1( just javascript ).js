@@ -1,3 +1,6 @@
+//Version 1 just use javascript no jQuery
+
+
 //點擊跳出選單，點擊黑幕取消頁面
 function menuFunction() {
     var mobilemenu = document.getElementById("menu-bar");

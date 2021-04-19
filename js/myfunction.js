@@ -22,7 +22,7 @@ $(document).ready(function () { //Jquery起手式
 // XMLHttpRequest 物件專門用來和伺服器連線
 const showPanel = (pageName, panelIndex, colorCode) => {
     $(function () {
-        $.get("https://gn00667340.github.io/single-page-web/" + pageName, function (data) {
+        $.get("https://gn00667340.github.io/Web-design/" + pageName, function (data) {
             var tabs = $(".tabs")
             $(tabs).each((clearAll) => {
                 $(tabs[clearAll]).css("background-color", "")
