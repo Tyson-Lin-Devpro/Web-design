@@ -271,6 +271,14 @@ a > img {
 
 #information {
   padding-top: 50px;
+  background-image: url(../images/backgroundImage.jpg);
+  opacity: 0.8;
+  min-height: auto;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
 }
 
 #information > h1 {
@@ -373,7 +381,7 @@ a > img {
 .button {
   display: inline-block;
   border-radius: 4px;
-  background-color: #7293a1;
+  background-color: #5b656b;
   border: none;
   color: #ffffff;
   text-align: center;
@@ -448,7 +456,7 @@ a > img {
 }
 
 footer {
-  background-color: rgba(149, 100, 66, 0.4);
+  background-color: #c7bfb2;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;

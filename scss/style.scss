@@ -45,6 +45,7 @@ header {
       text-align : center;
       width      : 150px;
       line-height: 50px;
+
       &:hover {
         background-color: rgb(60, 60, 60);
         color           : white;
@@ -231,7 +232,14 @@ a {
 
 #information {
   padding-top: 50px;
-
+  background-image     : url(../images/backgroundImage.jpg);
+  opacity              : 0.8;
+  min-height           : auto;
+  background-attachment: fixed;
+  background-position  : center;
+  background-repeat    : no-repeat;
+  background-size      : cover;
+  width                : 100%;
   >h1 {
     text-align: center;
   }
@@ -325,7 +333,7 @@ input:focus {
 .button {
   display         : inline-block;
   border-radius   : 4px;
-  background-color: rgb(114, 147, 161);
+  background-color: rgb(91, 101, 107);
   border          : none;
   color           : #ffffff;
   text-align      : center;
@@ -393,7 +401,7 @@ input:focus {
 }
 
 footer {
-  background-color     : rgba(149, 100, 66, 0.4);
+  background-color     : rgb(199, 191, 178);
   align-items          : center;
   justify-content      : center;
   display              : grid;
