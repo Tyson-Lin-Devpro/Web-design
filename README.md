@@ -1,6 +1,6 @@
 # 商家網頁設計
 
-![首頁截圖頁面](https://github.com/gn00667340/single-page-web/blob/gh-pages/images/singlepage.gif)
+![首頁截圖頁面](https://github.com/gn00667340/Web-design/blob/gh-pages/images/home.png)
 
 ## Demo - 專案展示
 
