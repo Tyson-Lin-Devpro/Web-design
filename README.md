@@ -1,4 +1,4 @@
-# 商家網頁設計
+# 店家官網WEB
 
 ![首頁截圖頁面](https://github.com/gn00667340/Web-design/blob/gh-pages/images/home.png)
 
